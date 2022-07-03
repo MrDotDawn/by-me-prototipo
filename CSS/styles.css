@@ -10,6 +10,31 @@ body .jumbotron h3 {
     margin-bottom: 5%;
 }
 
+body .jumbotron div#segundaparte {
+    float:left;
+    margin-top: 5%;
+}
+
+
+body .jumbotron img#propaganda{
+    display:inline-flex;
+    float:right;
+    margin-left: 5%;
+    margin-right:5%;
+}
+
+body .jumbotron div#segundaparte img#propaganda{
+    display:inline-flex;
+    float:right;
+    margin-left: 5%;
+    margin-right:2%;
+}
+
+div#fimdepagina{
+    margin-top: 20px;
+}
+
+
 body div#ab ul summary{
     float: right;
     margin-top: 9%;
